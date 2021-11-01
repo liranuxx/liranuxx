@@ -1,8 +1,8 @@
 ### Hi, 👋 I'm Li Ran
 
-
-![Metrics](https://metrics.lecoq.io/liranuxx?template=classic&config.timezone=Asia%2FShanghai)
 <!--
+![Metrics](https://metrics.lecoq.io/liranuxx?template=classic&config.timezone=Asia%2FShanghai)
+
 **liranuxx/liranuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
