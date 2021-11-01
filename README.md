@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/liranuxx?template=classic&config.timezone=Asia%2FShanghai)
 
-![liran's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=liranuxx&show_icons=true&count_private=true&theme=gotham)
+![liran's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liranuxx&layout=compact&hide_border=true&langs_count=10)
+
+[![liran's GitHub stats](https://github-readme-stats.vercel.app/api?username=liranuxx)](https://github.com/anuraghazra/github-readme-stats)
