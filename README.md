@@ -1,5 +1,7 @@
-### Hi, 👋 I'm liran
+### Hi, 👋 I'm Li Ran
 
+
+![Metrics](https://metrics.lecoq.io/liranuxx?template=classic&config.timezone=Asia%2FShanghai)
 <!--
 **liranuxx/liranuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -12,10 +14,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
-![Metrics](https://metrics.lecoq.io/liranuxx?template=classic&config.timezone=Asia%2FShanghai)
+### My GitHub Stats && Languages
 
 [![liran's GitHub stats](https://github-readme-stats.vercel.app/api?username=liranuxx)](https://github.com/anuraghazra/github-readme-stats)![liran's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liranuxx&layout=compact&hide_border=true&langs_count=10)
-
 
 
 ### Contact me:
