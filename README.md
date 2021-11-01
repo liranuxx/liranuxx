@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Metrics](https://metrics.lecoq.io/liranuxx?template=classic&config.timezone=Asia%2FShanghai)
+
+![liran's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=liranuxx&show_icons=true&count_private=true&theme=gotham)
