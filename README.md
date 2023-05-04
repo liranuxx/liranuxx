@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ### Contact me:
 
-- Personal website: [![website](https://img.shields.io/badge/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://liranux.gitee.io/)
-- Email: [![Email](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1730421828@qq.com)
+- Personal website: [![website](https://img.shields.io/badge/-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://www.thenicelee.top/)
+- Email: [![Email](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1489198873@qq.com)
