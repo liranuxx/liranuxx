@@ -1,4 +1,4 @@
-### Hi, 👋 I'm Li Ran
+### Hi, 👋 I'm Alex
 
 <!--
 ![Metrics](https://metrics.lecoq.io/thenicealex?template=classic&config.timezone=Asia%2FShanghai)
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats && Languages
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenicealex&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenicealex&show_icons=true&bg_color=00000000)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenicealex&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
