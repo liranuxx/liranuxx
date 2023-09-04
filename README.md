@@ -1,14 +1,13 @@
 ### Hi, 👋 I'm Li Ran
 
 <!--
-![Metrics](https://metrics.lecoq.io/liranuxx?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/thenicealex?template=classic&config.timezone=Asia%2FShanghai)
 
-**liranuxx/liranuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thenicealex/thenicealex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently computer student;
-- 🌱 I’m currently learning igh-performance computing;
+- 🔭 I’m computer student now;
 - 🤔 My interests are with linux and hpc programming, C, Python, Parallel Caculations, Arithmetic etc..;
 - 💼 I’m pursuing a master's degree;
 - 💬 Ask me about anything, I am happy to help;
