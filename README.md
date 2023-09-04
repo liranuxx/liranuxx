@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats && Languages
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenicealex&show_icons=true&bg_color=00000000)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenicealxe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenicealex&show_icons=true&bg_color=00000000)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenicealex&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
