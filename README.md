@@ -1,10 +1,5 @@
 ### Hi, 👋 I'm Alex
 
-<!--
-![Metrics](https://metrics.lecoq.io/thenicealex?template=classic&config.timezone=Asia%2FShanghai)
-
-**thenicealex/thenicealex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
 
 - 🔭 I’m computer student now;
